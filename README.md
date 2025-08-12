@@ -6,7 +6,7 @@ This repository is a PHP-based web application for managing and visualizing inte
 - Interactive world map displaying sanctions by country
 - Admin panel for managing sanctions data
 - Upload and manage sanction documents (PDF, DOCX)
-- Country detail and highlight AJAX endpoints
+- Country detail and highlight AJAX endpoints 
 - Export and backup database functionality
 - Dropbox integration for file management
 
