@@ -1,1 +1,16 @@
-test
+Make changes to local directory
+
+Local -> github -> cPannel
+
+Local 
+git add .
+git commit -m "<any_name>"
+
+git push 
+or 
+git push --set-upstream origin main
+
+cPannel
+git pull
+
+cd /home/
